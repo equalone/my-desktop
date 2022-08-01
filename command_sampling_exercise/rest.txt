@@ -1,0 +1,116 @@
+''.join(str(x) for x in args)
+**kwargs
+*args
+Image.resize
+StopIteration
+__iter__(self)
+__next__(self)
+a=numpy.array([[1,2,3],[4,5,6],[7,8,9]])
+abs()
+async def
+asyncio.run()
+asyncio.sleep（）
+await asyncio.gather()
+break
+calendar.month()
+class
+compile()
+def __init__
+def __new__(cls):
+def __next__(self)
+def twoSum(nums: target)
+dict()
+dict.copy()
+dict.fromkeys(seq[,value])
+dict.get(keydefault=None)
+dict.items()
+dict.keys()
+dict.pop(ke[,default])
+dict.values()
+doctest.testmod()
+enumerate()
+exec()
+file.name
+file.read()
+file.readlines() 
+file.write()
+file.writelines()
+filter()
+float()
+for i,v in enumerate()
+for i,v in enumerate(str,start=1):lst.append((i,v))
+function: Callable[[float], float]
+help()
+if 'key' in dict
+image.paste()
+image.save()
+input()
+int()
+iter()
+lambda x, y=3: x*y
+len()
+list()
+list.append()
+list.index(value)
+list.pop()
+list.sort()
+map()
+max(tuple)
+min(tuple)
+next()
+number(%)
+number(//)
+open()
+os.getcwd()
+os.makedirs(filename,exist_ok=True)
+os.path.abspath('text.txt')
+os.path.exists(r'/text.txt')
+os.path.getsize(r'text.txt')
+os.path.isdir(r'text.txt')
+os.path.isfile()
+os.path.isfile(r'text.txt')
+os.path.join()
+os.system
+os.system('cls')
+print( sorted( [ (v,k) for k,v in counts.items() ], reverse=True ) )
+print('*', end='')
+print(next(iter))
+pyglet.app.run()
+pyglet.resource.animation
+pyglet.sprite.Sprite
+pyglet.window.Window
+raise StopIteration()
+randint(0,8)
+random.choice('大家来找碴')random.sample(population, k)
+range()
+re.compile()
+re.findall()
+re.macth()
+re.macth().group()#pa=re.match('([a-z])([a-z])','abcd')      
+re.match()
+re.search()
+re.search().group()
+re.sub(pattern,repl,string,count)
+return
+s = 'A message from csev@umich.edu to cwen@iupui.edu about meeting @2PM'lst = re.findall('\\S+@\\S+', s)print(lst)
+script,a,b,c=sys.argv
+self = string.upper()
+send()
+set.add()
+set.pop()
+set.update()
+sorted(lst,reverse=True)
+str()
+str(dict)
+str.join(sequence)
+str.split()
+string.lower()string.title()
+sum()
+sum(i for i in range(10))
+sum(iterable[,start]
+time.sleep(0.2)
+time.sleep（）
+try_except_finally
+tuple(iterable)
+w=str(123455)print(w)
+yield

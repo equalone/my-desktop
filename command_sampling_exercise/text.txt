@@ -1,0 +1,129 @@
+str()
+list()
+list.pop()
+range()
+int()
+*args
+len()
+set.pop()
+number(%)
+**kwargs
+open()
+file.read()
+number(//)
+number(%)
+file.readlines() 
+randint(0,8)
+set.add()
+file.writelines()
+file.write()
+input()
+float()
+script,a,b,c=sys.argv
+print('*', end='')
+asyncio.sleep（）
+time.sleep（）
+__iter__(self)
+__next__(self)
+re.findall()
+iter()
+next()
+random.sample(population, k)
+list.append()
+yield
+return
+class
+next()
+sum(i for i in range(10))
+os.system('cls')
+time.sleep(0.2)
+abs()
+help()
+assert
+dict()
+str(dict)
+dict.fromkeys(seq[,value])
+dict.get(keydefault=None)
+dict.items()
+dict.keys()
+dict.values()
+dict.pop(ke[,default])
+dict.copy()
+async def
+await asyncio.gather()
+asyncio.run()
+break
+def __init__
+compile()
+eval()
+exec()
+tuple(iterable)
+max(tuple)
+min(tuple)
+send()
+raise StopIteration()
+def __next__(self)
+try_except_finally
+os.makedirs(filename,exist_ok=True)
+Image.resize
+image.paste()
+image.save()
+os.system
+pyglet.resource.animation
+pyglet.sprite.Sprite
+pyglet.window.Window
+pyglet.app.run()
+list.sort()
+set.add()
+set.update()
+set.pop()
+re.compile()
+re.sub(pattern,repl,string,count)
+filter()
+enumerate()
+dir()
+dict.items()
+sum()
+str.join(sequence)
+os.path.join()
+enumerate()
+for i,v in enumerate()
+os.getcwd()
+os.path.isfile()
+re.match()
+re.search()
+re.macth()
+re.macth().group()#pa=re.match('([a-z])([a-z])','abcd')      
+re.search().group()
+''.join(str(x) for x in args)
+calendar.month()
+str.split()
+StopIteration
+os.getcwd()
+def twoSum(nums: target)
+lambda x, y=3: x*y
+sorted(lst,reverse=True)
+for i,v in enumerate(str,start=1):lst.append((i,v))
+print( sorted( [ (v,k) for k,v in counts.items() ], reverse=True ) )
+s = 'A message from csev@umich.edu to cwen@iupui.edu about meeting @2PM'lst = re.findall('\\S+@\\S+', s)print(lst)
+map()
+function: Callable[[float], float]
+doctest.testmod()
+file.name
+sum(iterable[,start]
+self = string.upper()
+string.lower()string.title()
+def __new__(cls):
+list.index(value)
+if 'key' in dict
+lists.pop(index=2)
+w=str(123455)print(w)
+print(next(iter))
+Point = collections.namedtuple("Point", ["x", "y"])
+a=numpy.array([[1,2,3],[4,5,6],[7,8,9]])
+os.path.abspath('text.txt')
+os.path.exists(r'/text.txt')
+os.path.isfile(r'text.txt')
+os.path.isdir(r'text.txt')
+os.path.getsize(r'text.txt')
+random.choice('大家来找碴')
